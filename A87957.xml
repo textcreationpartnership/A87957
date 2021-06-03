@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter from Plymouth concerning the late occurrances and affaires of that place. Directed to Captaine Ioseph Vaughan in London, and received Novemb. 2. 1643.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87957</idno><idno type="EEBO-CITATION">99859567</idno>
+  <idno type="VID">155499</idno>
+  <idno type="EEBO-PROQUEST">2240868524</idno>
+  
+            <idno type="STC">Wing L1496</idno>
+            <idno type="STC">Thomason E74_22</idno>
+            <idno type="STC">ESTC R13871</idno>
+            <idno type="PROQUEST">99859567</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99859567e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87957)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155499)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 13:E74[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter from Plymouth concerning the late occurrances and affaires of that place. Directed to Captaine Ioseph Vaughan in London, and received Novemb. 2. 1643.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A.N.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Novemb. 4. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Plymouth (England) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155499:1"/>
+            <p>A LETTER FROM PLYMOUTH Concerning the late Occurran<g ref="char:EOLhyphen"/>ces and affaires of that place.</p>
+            <p>DIRECTED To Captaine <hi>Ioseph Vaughan</hi> in <hi>London,</hi> and received <hi>Novemb.</hi> 2. 1643.</p>
+            <p>LONDON, Printed for <hi>A.N. Novemb.</hi> 4. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:155499:2"/>
+            <pb n="1" facs="tcp:155499:2"/>
+            <head>A Letter sent from <hi>Plymouth</hi> 27 <hi>Octob.</hi> 1643.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Hope our Letters by Master <hi>Ke<g ref="char:EOLhyphen"/>kewich,</hi> are long ere this come safely to your hands, and hee by this time returning with a di<g ref="char:EOLhyphen"/>spatch answerable to the present exigents of this place: The enemy being masters of the whole County, drawes in to their assistance what numbers they please, and hath now as we heare, brought divers great Guns for battery from <hi>Exeter</hi> and <hi>Dartmouth,</hi> one aboue the rest they speake of, is the great wreathed brasse Gun which was sent by the Parliament to <hi>Exeter.</hi> Vpon Friday night last, the enemy had made a Worke neere one of our Out-workes, where they had placed three hundred men, their Horse and Foot standing at their back, ready upon all occasions to re<g ref="char:EOLhyphen"/>lieve
+<pb n="2" facs="tcp:155499:3"/>them; upon notice hereof a party of our Foot only, fell upon them (for the place is be<g ref="char:EOLhyphen"/>yond the River where our Horse could not come) and after an houres skirmish were en<g ref="char:EOLhyphen"/>tred upon the enemies Workes, but by their Horse were soone repulsed and put off againe; but soon after our men came on againe with greater resolution then before, and quite beat off the enemy, and possessed themselves of their Workes, which hitherto we hold, and I trust in the Lord shall hold them still, yet up<g ref="char:EOLhyphen"/>on Sunday morning through the treachery or cowardise of the Officer, who was trusted with the guarding of the place (for which by the order of the Generall he was shot to death upon Tuesday last) the enemy had regained the Work, but within two houres our men drove them out againe; since which time they have made other workes somewhat further off, which I suppose are not yet finished, for from thence as yet they have attempted no<g ref="char:EOLhyphen"/>thing, only they lye there-abouts under hedges, and with long fowling peeces can watch our Workes. Vpon Tuesday morning Colonell <hi>Gould</hi> being abroad viewing the place received
+<pb n="3" facs="tcp:155499:3"/>a light hurt in the back upon the point of his shoulder with a bullet, shot out of one of those long Guns which they tooke at <hi>Exeter.</hi> The fight between our men and the enemy was ve<g ref="char:EOLhyphen"/>ry fierce, both Saturday and Sunday: we lost about three or foure men each day, whereof Captaine <hi>Corbet,</hi> one of those Captaines which came hither with Colonell <hi>Gould</hi> was one: how many were lost on their side wee know not, but certainly there was a great slaughter of them; we heare they lost three Captaines, and three Lievtenants, and it is probable a number of common souldiers-in proportion to those Officers; they buryed divers of their slain men in their Workes presently, the rest as many as they could they carryed off, yet they left about twelve or fourteen-dead in the open field, and thirty seven wee tooke prisoners. We heare that Major <hi>Parry</hi> who hath had the com<g ref="char:EOLhyphen"/>mand in chiefe at <hi>Saltash</hi> since the last taking of it by the enemy (a violent bloudy man) was one of those Commanders they lost, and young <hi>Bluet</hi> of <hi>Cornwall,</hi> a bold daring man, another: we heare the enemy hath lost by this enter<g ref="char:EOLhyphen"/>prise partly of such as were slain, wounded, ta<g ref="char:EOLhyphen"/>ken
+<pb n="4" facs="tcp:155499:4"/>prisoners, and partly of those that upon this action ran away, neare about a thousand men: the greater cause we have to blesse God for it, especially if we consider our own weak<g ref="char:EOLhyphen"/>nesse; for to say truth, the businesse was done principally by those poore little boyes (for the most part of them are such) which came with Colonell <hi>Gould,</hi> which are not in all above four hundred, and upon them chiefly the defence of this place now stands, and therefore you shall doe well to procure more men to bee sent down as soon as possibly you can, if there bee Officers only to bring them downe it will be well enough, for the Regiment that came downe with Colonell <hi>Gould</hi> will take up one thousand men to compleat it; it is true, here are many men which are not in the service, nor are fit to be, many of them being faint-hearted, and many others false-hearted. Certainly (Bro<g ref="char:EOLhyphen"/>ther) this Towne is of great importance to the whole Kingdome, especially to Merchants, and therefore I marvell those of <hi>London</hi> take no more care about the securing of it, one thousand men will doe more for the keeping, then ten thousand for the regaining of it, should it once
+<pb n="5" facs="tcp:155499:4"/>be lost; and five thousand pounds in money will doe more now, then a hundred thousand will doe for the recovery of it out of the ene<g ref="char:EOLhyphen"/>mies hands: We have besides these two great wants of men and money, one other, whereof I writ unto you in my last, which is for the well ordering and government of the affaires here, not only in the field, but in the Towne, Fort, and Island, which now lyes at six and se<g ref="char:EOLhyphen"/>ven, and we stand unresolved who it is that doth, or can, or should command, and by that meanes are in a very ill posture. I pray advise with our speciall friends, and bestirre your selves to helpe us. Fare you well heartily, I re<g ref="char:EOLhyphen"/>maine yours assuredly.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>
+               <hi>This is Licensed and entered according to Order.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
